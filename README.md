@@ -1,7 +1,7 @@
 <!-- Gif found on GIPHY made by @espritofficial -->
 <h1 align="center"> Hi, you've reached Angie's GitHub profile!! <img src="https://media.giphy.com/media/fAhZm10htd8TrQO6le/giphy.gif" width="55"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BE29F7&amp;center=true&amp;vCenter=true&amp;lines=Front+-end+Developer.;Self-motivated+tech+enthusiast.;Always+a+student%2C+never+a+master." alt="Typing SVG"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23BE29F7&amp;center=true&amp;vCenter=true&amp;lines=Front+-end+Developer.;Self-motivated+tech+enthusiast.;Always+a+student%2C+never+a+master." alt="Typing SVG">
 </p>
 <h3 align="center">I'm a frontend developer from Mexico, a lifelong internationalist and a full-time challenge seeker.</h3>
 <br>
@@ -25,7 +25,7 @@
 ## Github Stats (Expand to View) <img alt="cat stats" src="https://media.giphy.com/media/RNcg8psfyNXpZgWQ0I/giphy.gif" width="40" title="cat stats"/> <!-- Gif found on GIPHY made by @bunny_is_moving --> 
 
 <details> 
-  <summary><b> GitHub Profile Stats 👨‍💻 </b></summary>
+  <summary><b> GitHub Profile Stats 👩‍💻 </b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/AngieVenta"><img align="center" src="https://github-readme-stats.vercel.app/api?username=angieventa&show_icons=true&theme=github_dark" alt="angieventa" height="192px"/></a>
