@@ -15,7 +15,7 @@
 <img align="right" src="https://media.giphy.com/media/7IX8vUDnZRBELrqkfw/giphy.gif" alt="woman" /> <!-- Gif found on GIPHY made by @imaginieedu -->
 <h2> Current challenges </h2>
 <ul>
-	<li> Learn to code:woman_technologist: 6-8 hours a day (with breaks and One or two day off a week). </li> 
+	<li> Learn to code:woman_technologist: 6-8 hours a day (with breaks and one or two days off a week). </li> 
 	<li> Solve 4 coding challanges a week. </li>
 	<li> Learn more about Data Science and Cibersecurity. </li>
 	<li> Practice my chinese speaking habilities. </li>
