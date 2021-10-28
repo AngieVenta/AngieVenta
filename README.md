@@ -24,7 +24,7 @@
 </ul>
 
 
-## Languages & Tools <img alt="cat" src="https://media.giphy.com/media/RYYcIqEj5pR2Ro8luH/giphy.gif" width="40" title="cat"/> <!-- Gif found on GIPHY made by @bunny_is_moving -->
+## Languages & Tools 
 <!-- Gifs found on GIPHY made by @devrock @bunny_is_moving -->
 <p align="center">
   <img alt="git" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" title="git"/>
@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50px" title="npm"/>
 </p>
 
-## Github Stats (Expand to View) <img alt="cat stats" src="https://media.giphy.com/media/RNcg8psfyNXpZgWQ0I/giphy.gif" width="40" title="cat stats"/> <!-- Gif found on GIPHY made by @bunny_is_moving --> 
+## Github Stats (Expand to View) <img alt="cat" src="https://media.giphy.com/media/RYYcIqEj5pR2Ro8luH/giphy.gif" width="40" title="cat"/> <!-- Gif found on GIPHY made by @bunny_is_moving -->
 
 <details> 
   <summary><b> GitHub Profile Stats 👩‍💻 </b></summary>
