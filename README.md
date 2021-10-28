@@ -1,5 +1,5 @@
 <!-- Gif found on GIPHY made by @espritofficial -->
-<h1 align="center"><img src="https://media.giphy.com/media/fAhZm10htd8TrQO6le/giphy.gif" width="55"> Hi, you've reached Angie's GitHub profile!! <img src="https://media.giphy.com/media/fAhZm10htd8TrQO6le/giphy.gif" width="55"></h1>
+<h1 align="center"> Hi, you've reached Angie's GitHub profile!! <img src="https://media.giphy.com/media/fAhZm10htd8TrQO6le/giphy.gif" width="55"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BE29F7&amp;center=true&amp;vCenter=true&amp;lines=Front+-end+Developer.;Self-motivated+tech+enthusiast.;Always+a+student%2C+never+a+master." alt="Typing SVG"></a>
 </p>
@@ -7,7 +7,7 @@
 <br>
 <p align="right"> <img align="center" src="https://komarev.com/ghpvc/?username=angieventa&label=Angie's%20Profile%20views&color=14cff0&style=plastic" alt="angieventa" /> </p>
 
-## Languages & Tools <img alt="cat" src="https://media.giphy.com/media/RYYcIqEj5pR2Ro8luH/giphy.gif" width="50" title="cat"/> <!-- Gif found on GIPHY made by @bunny_is_moving -->
+## Languages & Tools <img alt="cat" src="https://media.giphy.com/media/RYYcIqEj5pR2Ro8luH/giphy.gif" width="40" title="cat"/> <!-- Gif found on GIPHY made by @bunny_is_moving -->
 <!-- Gifs found on GIPHY made by @devrock @bunny_is_moving -->
 <p align="center">
   <img alt="git" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" title="git"/>
@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50px" title="npm"/>
 </p>
 
-## Github Stats (Expand to View) <img alt="cat stats" src="https://media.giphy.com/media/RNcg8psfyNXpZgWQ0I/giphy.gif" width="50" title="cat stats"/> <!-- Gif found on GIPHY made by @bunny_is_moving --> 
+## Github Stats (Expand to View) <img alt="cat stats" src="https://media.giphy.com/media/RNcg8psfyNXpZgWQ0I/giphy.gif" width="40" title="cat stats"/> <!-- Gif found on GIPHY made by @bunny_is_moving --> 
 
 <details> 
   <summary><b> GitHub Profile Stats 👨‍💻 </b></summary>
@@ -35,12 +35,12 @@
 	</p> 
 </details>
 
-## Connect with me: <img alt="cat contact" src="https://media.giphy.com/media/CijNvKrDjUcAobxU9N/giphy.gif" width="50" title="cat contact"/> <!-- Gif found on GIPHY made by @bunny_is_moving --> 
+## Connect with me: <img alt="cat contact" src="https://media.giphy.com/media/CijNvKrDjUcAobxU9N/giphy.gif" width="40" title="cat contact"/> <!-- Gif found on GIPHY made by @bunny_is_moving --> 
 <p align="center">
  <!-- Socials (Icons from https://icons8.com/) -->
   <a href="mailto:angelicaventap@gmail.com"><img src="https://img.icons8.com/dusk/64/000000/gmail.png" title="gmail"/>
   <a href="http://www.linkedin.com/in/gloria-angelica-venta-perez"><img src="https://img.icons8.com/dusk/64/000000/linkedin.png" title="linkedIn"/>
-  <a href="https://github.com/AngieVenta"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="70" title="github"  />
+  <a href="https://github.com/AngieVenta"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="70" title="github"/>
 </p>
 
 
