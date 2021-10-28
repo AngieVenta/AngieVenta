@@ -4,8 +4,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%23BE29F7&amp;center=true&amp;vCenter=true&amp;lines=Front+-end+Developer.;Self-motivated+tech+enthusiast.;Always+a+student%2C+never+a+master." alt="Typing SVG">
 </p>
 <h3 align="center">I'm a frontend developer from Mexico, a lifelong internationalist and a full-time challenge seeker.</h3>
-<br>
-<p align="right"> <img align="center" src="https://komarev.com/ghpvc/?username=angieventa&label=Angie's%20Profile%20views&color=14cff0&style=plastic" alt="angieventa" /> </p>
+<p align="right"> <img align="center" src="https://komarev.com/ghpvc/?username=angieventa&label=Angie's%20Profile%20views&color=14cff0&style=plastic" alt="angieventa" />
+</p>
+
+<ul>
+	<li> 📚 I’m currently learning Javascript, React and UX design. </li>
+	<li> ⚡ Student at &lt Laboratoria &gt. </li>
+	<li> 🌱 My mission is to use my technical skills to help people and make a big impact on social causes. </li>
+</ul>
+<img align="right" src="https://media.giphy.com/media/7IX8vUDnZRBELrqkfw/giphy.gif" alt="woman" /> <!-- Gif found on GIPHY made by @imaginieedu -->
+<h2> Current challenges </h2>
+<ul>
+	<li> Learn to code:woman_technologist: 6-8 hours a day (with breaks and One or two day off a week). </li> 
+	<li> Solve 4 coding challanges a week. </li>
+	<li> Learn more about Data Science and Cibersecurity. </li>
+	<li> Practice my chinese speaking habilities. </li>
+	<li> workout three days a week </li>
+	<li> Complete my 2021 Reading Challenge </li>
+</ul>
+
 
 ## Languages & Tools <img alt="cat" src="https://media.giphy.com/media/RYYcIqEj5pR2Ro8luH/giphy.gif" width="40" title="cat"/> <!-- Gif found on GIPHY made by @bunny_is_moving -->
 <!-- Gifs found on GIPHY made by @devrock @bunny_is_moving -->
@@ -41,6 +58,11 @@
   <a href="mailto:angelicaventap@gmail.com"><img src="https://img.icons8.com/dusk/64/000000/gmail.png" title="gmail"/>
   <a href="http://www.linkedin.com/in/gloria-angelica-venta-perez"><img src="https://img.icons8.com/dusk/64/000000/linkedin.png" title="linkedIn"/>
   <a href="https://github.com/AngieVenta"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="70" title="github"/>
+</p>
+
+	  
+<p align="center">
+	“Challenge yourself; it’s the only path which leads to growth.” <br> <cite> - Morgan Freeman<cite>
 </p>
 
 
