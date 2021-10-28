@@ -8,7 +8,7 @@
 </p>
 
 <ul>
-	<li> 📚 I’m currently learning Javascript, React and UX design. </li>
+	<li> 📚 I’m currently learning Front-End Web Development and UX design. </li>
 	<li> ⚡ Student at &lt Laboratoria &gt. </li>
 	<li> 🌱 My mission is to use my technical skills to help people and make a big impact on social causes. </li>
 </ul>
@@ -19,7 +19,7 @@
 	<li> Solve 4 coding challanges a week. </li>
 	<li> Learn more about Data Science and Cibersecurity. </li>
 	<li> Practice my chinese speaking habilities. </li>
-	<li> workout three days a week </li>
+	<li> Workout three days a week </li>
 	<li> Complete my 2021 Reading Challenge </li>
 </ul>
 
