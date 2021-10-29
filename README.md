@@ -15,7 +15,7 @@
 <img align="right" src="https://media.giphy.com/media/7IX8vUDnZRBELrqkfw/giphy.gif" alt="woman" /> <!-- Gif found on GIPHY made by @imaginieedu -->
 <h2> Current challenges... </h2>
 <ul>
-	<li> Learn to code:woman_technologist: 6-8 hours a day (with breaks and one or two days off a week). </li> 
+	<li> Learn to code 6-8 hours a day (with breaks and one or two days off a week). </li> 
 	<li> Solve 4 coding challanges a week. </li>
 	<li> Learn more about Data Science and Cibersecurity. </li>
 	<li> Practice my Chinese speaking abilities. </li>
@@ -42,7 +42,7 @@
 ## Github Stats (Expand to View) <img alt="cat" src="https://media.giphy.com/media/RYYcIqEj5pR2Ro8luH/giphy.gif" width="40" title="cat"/> <!-- Gif found on GIPHY made by @bunny_is_moving -->
 
 <details> 
-  <summary><b> GitHub Profile Stats 👩‍💻 </b></summary>
+  <summary><b> GitHub Profile Stats </b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/AngieVenta"><img align="center" src="https://github-readme-stats.vercel.app/api?username=angieventa&show_icons=true&theme=github_dark" alt="angieventa" height="192px"/></a>
