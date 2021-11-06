@@ -9,6 +9,7 @@
 
 <ul>
 	<li> 📚 I’m currently learning Front-End Web Development and UX design. </li>
+	<li> 👩‍💻 I’m currently working on <a href="https://github.com/AngieVenta/CDMX011-burger-queen-api-client"> "Burger Queen API CLIENT"</a>
 	<li> ⚡ Student at &lt Laboratoria &gt. </li>
 	<li> 🌱 My mission is to use my technical skills to help people and make a big impact on social causes. </li>
 </ul>
