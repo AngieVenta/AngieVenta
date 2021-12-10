@@ -9,7 +9,7 @@
 
 <ul>
 	<li> 📚 I’m currently learning Front-End Web Development and UX design. </li>
-	<li> 👩‍💻 I’m currently working on <a href="https://github.com/AngieVenta/CDMX011-burger-queen-api-client"> "Burger Queen API CLIENT"</a>
+	<li> 👩‍💻 I’m currently working on <a href="https://github.com/AngieVenta/CDMX011-burger-queen-api-client"> "Burger Queen API CLIENT"</a> & <a href="https://github.com/AngieVenta/CDMX011-lab-notes"> "Lab-Notes"</a>
 	<li> ⚡ Student at &lt Laboratoria &gt. </li>
 	<li> 🌱 My mission is to use my technical skills to help people and make a big impact on social causes. </li>
 </ul>
@@ -17,7 +17,7 @@
 <h2> Current challenges... </h2>
 <ul>
 	<li> Learn to code 6-8 hours a day (with breaks and one or two days off a week). </li> 
-	<li> Learn React and Sass. </li>
+	<li> Learn React and Angular. </li>
 	<li> Solve 4 coding challanges a week. </li>
 	<li> Learn more about Data Science and Cibersecurity. </li>
 	<li> Practice my Chinese speaking abilities. </li>
@@ -34,11 +34,14 @@
   <img alt="html" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="80" title="html"/>
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80" title="css"/>
   <img alt="firebase" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="80" title="firebase"/>
+  <img alt="react" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80" title="react"/>
+  <img alt="angular" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="80" title="angular"/>
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80" title="node">
   <img alt="vscode" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80" title="vscode"/>
   <img alt="figma" src="https://img.icons8.com/clouds/95/000000/figma.png" title="figma"/>
   <img alt="jest" src="https://cdn.iconscout.com/icon/free/png-256/jest-3630129-3031261.png" width="80" title="jest"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50px" title="npm"/>
+  <img alt="sass" src="https://img.icons8.com/color/48/000000/sass.png" width="70" title="sass"/>
+  <img alt= "npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50px" title="npm"/>
 </p>
 
 ## Github Stats (Expand to View) <img alt="cat" src="https://media.giphy.com/media/RYYcIqEj5pR2Ro8luH/giphy.gif" width="40" title="cat"/> <!-- Gif found on GIPHY made by @bunny_is_moving -->
