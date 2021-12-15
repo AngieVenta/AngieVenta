@@ -27,7 +27,7 @@
 
 
 ## Languages & Tools 
-<!-- Gifs found on GIPHY made by @devrock @bunny_is_moving -->
+<!-- Gifs found on GIPHY made by @devrock @bunny_is_moving & Icons from https://icons8.com/ -->
 <p align="center">
   <img alt="git" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" title="git"/>
   <img alt="javascript" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80" title="javascript"/>
