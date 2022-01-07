@@ -10,7 +10,7 @@
 <ul>
 	<li> 📚 I’m currently learning Front-End Web Development and UX design. </li>
 	<li> 👩‍💻 I’m currently working on <a href="https://github.com/AngieVenta/CDMX011-burger-queen-api-client"> "Burger Queen API CLIENT"</a> & <a href="https://github.com/AngieVenta/CDMX011-lab-notes"> "Lab-Notes"</a>
-	<li> ⚡ Student at &lt Laboratoria &gt. </li>
+	<li> ⚡ &lt Laboratorian &gt. </li>
 	<li> 🌱 My mission is to use my technical skills to help people and make a big impact on social causes. </li>
 </ul>
 <img align="right" src="https://media.giphy.com/media/7IX8vUDnZRBELrqkfw/giphy.gif" alt="woman" /> <!-- Gif found on GIPHY made by @imaginieedu -->
